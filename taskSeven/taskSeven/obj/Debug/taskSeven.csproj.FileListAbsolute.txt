@@ -1,0 +1,7 @@
+C:\Udemy\C# Curso Completo para ser programador\taskSeven\taskSeven\bin\Debug\taskSeven.exe.config
+C:\Udemy\C# Curso Completo para ser programador\taskSeven\taskSeven\bin\Debug\taskSeven.exe
+C:\Udemy\C# Curso Completo para ser programador\taskSeven\taskSeven\bin\Debug\taskSeven.pdb
+C:\Udemy\C# Curso Completo para ser programador\taskSeven\taskSeven\obj\Debug\taskSeven.csproj.AssemblyReference.cache
+C:\Udemy\C# Curso Completo para ser programador\taskSeven\taskSeven\obj\Debug\taskSeven.csproj.CoreCompileInputs.cache
+C:\Udemy\C# Curso Completo para ser programador\taskSeven\taskSeven\obj\Debug\taskSeven.exe
+C:\Udemy\C# Curso Completo para ser programador\taskSeven\taskSeven\obj\Debug\taskSeven.pdb

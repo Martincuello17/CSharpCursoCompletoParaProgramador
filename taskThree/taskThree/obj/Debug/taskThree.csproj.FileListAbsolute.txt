@@ -1,0 +1,7 @@
+C:\Udemy\C# Curso Completo para ser programador\taskThree\taskThree\bin\Debug\taskThree.exe.config
+C:\Udemy\C# Curso Completo para ser programador\taskThree\taskThree\bin\Debug\taskThree.exe
+C:\Udemy\C# Curso Completo para ser programador\taskThree\taskThree\bin\Debug\taskThree.pdb
+C:\Udemy\C# Curso Completo para ser programador\taskThree\taskThree\obj\Debug\taskThree.csproj.AssemblyReference.cache
+C:\Udemy\C# Curso Completo para ser programador\taskThree\taskThree\obj\Debug\taskThree.csproj.CoreCompileInputs.cache
+C:\Udemy\C# Curso Completo para ser programador\taskThree\taskThree\obj\Debug\taskThree.exe
+C:\Udemy\C# Curso Completo para ser programador\taskThree\taskThree\obj\Debug\taskThree.pdb

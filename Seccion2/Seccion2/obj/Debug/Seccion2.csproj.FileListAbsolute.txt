@@ -1,0 +1,7 @@
+C:\Udemy\C# Curso Completo para ser programador\Seccion2\Seccion2\bin\Debug\Seccion2.exe.config
+C:\Udemy\C# Curso Completo para ser programador\Seccion2\Seccion2\bin\Debug\Seccion2.exe
+C:\Udemy\C# Curso Completo para ser programador\Seccion2\Seccion2\bin\Debug\Seccion2.pdb
+C:\Udemy\C# Curso Completo para ser programador\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.AssemblyReference.cache
+C:\Udemy\C# Curso Completo para ser programador\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.CoreCompileInputs.cache
+C:\Udemy\C# Curso Completo para ser programador\Seccion2\Seccion2\obj\Debug\Seccion2.exe
+C:\Udemy\C# Curso Completo para ser programador\Seccion2\Seccion2\obj\Debug\Seccion2.pdb

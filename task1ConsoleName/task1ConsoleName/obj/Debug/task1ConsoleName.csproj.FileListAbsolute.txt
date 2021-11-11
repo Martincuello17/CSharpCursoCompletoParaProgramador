@@ -1,0 +1,7 @@
+C:\Udemy\C# Curso Completo para ser programador\task1ConsoleName\task1ConsoleName\bin\Debug\task1ConsoleName.exe.config
+C:\Udemy\C# Curso Completo para ser programador\task1ConsoleName\task1ConsoleName\bin\Debug\task1ConsoleName.exe
+C:\Udemy\C# Curso Completo para ser programador\task1ConsoleName\task1ConsoleName\bin\Debug\task1ConsoleName.pdb
+C:\Udemy\C# Curso Completo para ser programador\task1ConsoleName\task1ConsoleName\obj\Debug\task1ConsoleName.csproj.AssemblyReference.cache
+C:\Udemy\C# Curso Completo para ser programador\task1ConsoleName\task1ConsoleName\obj\Debug\task1ConsoleName.csproj.CoreCompileInputs.cache
+C:\Udemy\C# Curso Completo para ser programador\task1ConsoleName\task1ConsoleName\obj\Debug\task1ConsoleName.exe
+C:\Udemy\C# Curso Completo para ser programador\task1ConsoleName\task1ConsoleName\obj\Debug\task1ConsoleName.pdb

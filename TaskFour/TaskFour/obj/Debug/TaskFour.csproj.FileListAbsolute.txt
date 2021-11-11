@@ -1,0 +1,7 @@
+C:\Udemy\C# Curso Completo para ser programador\TaskFour\TaskFour\bin\Debug\TaskFour.exe.config
+C:\Udemy\C# Curso Completo para ser programador\TaskFour\TaskFour\bin\Debug\TaskFour.exe
+C:\Udemy\C# Curso Completo para ser programador\TaskFour\TaskFour\bin\Debug\TaskFour.pdb
+C:\Udemy\C# Curso Completo para ser programador\TaskFour\TaskFour\obj\Debug\TaskFour.csproj.AssemblyReference.cache
+C:\Udemy\C# Curso Completo para ser programador\TaskFour\TaskFour\obj\Debug\TaskFour.csproj.CoreCompileInputs.cache
+C:\Udemy\C# Curso Completo para ser programador\TaskFour\TaskFour\obj\Debug\TaskFour.exe
+C:\Udemy\C# Curso Completo para ser programador\TaskFour\TaskFour\obj\Debug\TaskFour.pdb

@@ -1,0 +1,7 @@
+C:\Udemy\C# Curso Completo para ser programador\taskSix\taskSix\bin\Debug\taskSix.exe.config
+C:\Udemy\C# Curso Completo para ser programador\taskSix\taskSix\bin\Debug\taskSix.exe
+C:\Udemy\C# Curso Completo para ser programador\taskSix\taskSix\bin\Debug\taskSix.pdb
+C:\Udemy\C# Curso Completo para ser programador\taskSix\taskSix\obj\Debug\taskSix.csproj.AssemblyReference.cache
+C:\Udemy\C# Curso Completo para ser programador\taskSix\taskSix\obj\Debug\taskSix.csproj.CoreCompileInputs.cache
+C:\Udemy\C# Curso Completo para ser programador\taskSix\taskSix\obj\Debug\taskSix.exe
+C:\Udemy\C# Curso Completo para ser programador\taskSix\taskSix\obj\Debug\taskSix.pdb

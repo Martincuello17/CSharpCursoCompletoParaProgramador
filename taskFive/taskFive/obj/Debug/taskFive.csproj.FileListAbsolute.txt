@@ -1,0 +1,7 @@
+C:\Udemy\C# Curso Completo para ser programador\taskFive\taskFive\bin\Debug\taskFive.exe.config
+C:\Udemy\C# Curso Completo para ser programador\taskFive\taskFive\bin\Debug\taskFive.exe
+C:\Udemy\C# Curso Completo para ser programador\taskFive\taskFive\bin\Debug\taskFive.pdb
+C:\Udemy\C# Curso Completo para ser programador\taskFive\taskFive\obj\Debug\taskFive.csproj.AssemblyReference.cache
+C:\Udemy\C# Curso Completo para ser programador\taskFive\taskFive\obj\Debug\taskFive.csproj.CoreCompileInputs.cache
+C:\Udemy\C# Curso Completo para ser programador\taskFive\taskFive\obj\Debug\taskFive.exe
+C:\Udemy\C# Curso Completo para ser programador\taskFive\taskFive\obj\Debug\taskFive.pdb
